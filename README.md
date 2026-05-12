@@ -2,7 +2,7 @@
 
 # Object Detection and Motion Analysis
 
-**Görüntü İşleme Deney 9 - Nesne Tespiti ve Hareket Analizi**
+**Görüntü İşleme - Nesne Tespiti ve Hareket Analizi**
 
 ![Python](https://img.shields.io/badge/Python-3.7%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Motion%20Analysis-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
