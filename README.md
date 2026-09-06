@@ -9,7 +9,7 @@
 ![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Vision-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit Image](https://img.shields.io/badge/scikit--image-HOG-F7931E?style=for-the-badge)
 
-Hareketli nesneleri algılayan, optik akış ile hareket yönünü analiz eden ve HOG özellikleriyle görüntü temsili çıkaran Python/OpenCV laboratuvar projesi..
+Hareketli nesneleri algılayan, optik akış ile hareket yönünü analiz eden ve HOG özellikleriyle görüntü temsili çıkaran Python/OpenCV laboratuvar projesi.
 
 </div>
 
